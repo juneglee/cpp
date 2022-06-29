@@ -1,5 +1,5 @@
 #include <iostream>
-int ex03(void) {
+int main(void) {
 	bool b = true;
 	if (b)
 		std::cout << "b is true" << std::endl;

@@ -1,5 +1,5 @@
 #include <iostream>
-int ex02() {
+int main() {
 	int x = 0;
 	std::cout << "Input the number : ";
 	std::cin >> x;
